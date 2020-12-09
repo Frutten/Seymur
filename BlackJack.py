@@ -115,4 +115,4 @@ print ("Bye!")
 exit()
 
 if __name__ == "__main__":
-game(
+game()
